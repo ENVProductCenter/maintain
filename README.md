@@ -8,19 +8,21 @@ Tags: JavaScript Android
 
 #关于 清控人居环境巡查代码 的使用说明
 
-为了方便代码的远程管理，现在将源码放到GitHub进行维护。  
-近日看到 [Rock](http://rock.farbox.com/ "Rock 的博客") 制作的从 Octopress 模板 [Greyshade](http://shashankmehta.in/archive/2012/greyshade.html "Octopress 模板： Greyshade") 移植过来的 FarBox 模板，甚是喜爱，但发现有不少地方不方便自定义，幸好 Rock 提供了模板代码([GitHub](https://github.com/roccox/farbox_temp.git "Rock 从 Octopress 移植的 Greyshade 主题")),于是 Clone 一份，于 2013年07月12日 晚上开始修改，听着 豆瓣FM 的 [程序猿之音](http://douban.fm/?cid=1001343 "豆瓣FM - 程序猿之音") ，学习 FarBox 主题的制作文档，大约折腾了三个多小时，在次日凌晨 2 点多时完成初版，将其命名为 GrayshadeM 。
-北京测试地址
+-为了方便代码的远程管理，现在将源码放到GitHub进行维护。
+-不交钱的话，只能做开源。
+-安全性来说。。。估计没人会注意到吧。
 
-##模板功能说明
+    [北京地址](http://192.168.0.1)
+    [无锡地址](http://192.168.0.1)
+    [武汉地址](http://192.168.0.1)
 
-- 页面宽度自适应，兼容移动设备，如 iPad 、 iPhone
-- 自动识别 links.md 、 about.md 为 Links 与 About 页面
-- 文章与照片页面，自动识别 comment_js.md 的第三方社交评论或者用 FarBox 的评论系统
+##代码路径说明
 
-##网站自定义参数配置
+- BS端
+- Android端
+- README.md 自述文件。
 
-如果需要修改本模板的自定义项，需要在网站目录（比如 `FarBox/My Blog/` ）下放置一个名为 `site.md` 的文件，如下是一个范例：
+##系统部署时的参数配置
 
     title: IF404
     subtitle: 折腾模板的地方
