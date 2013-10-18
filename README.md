@@ -1,11 +1,11 @@
----
+﻿---
 
 Title: 关于 FarBox 模板 GrayshadeM 的使用说明
 Date: 2013-07-13 10:28
 Tags: FarBox 主题 模板 说明文档
 
 ---
-
+测试下同步代码
 #关于 FarBox 模板 GrayshadeM 的使用说明
 
 搬迁到 FarBox 后，一直想自己做个模板，奈何一直没有时间。  
